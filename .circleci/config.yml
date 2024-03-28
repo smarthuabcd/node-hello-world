@@ -1,4 +1,4 @@
-## This will build and publish docker container to dockerhub.
+## This will build and publish docker container to docke rhub.
 #
 # TO DO:
 # 1. Set the environment variables DOCKERHUB_USERNAME & DOCKERHUB_PASS
